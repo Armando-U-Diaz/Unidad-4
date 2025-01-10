@@ -10,6 +10,8 @@ public class Menu {
                                                             2.
                                                             3.
                                                             4.
+                                                            5.
+                                                            6.
                                                             """));
         switch (selccion) {
             case 1:
@@ -20,7 +22,7 @@ public class Menu {
                 break;
             case 4:
                 break;
-                default();
+            default: JOptionPane.showInputDialog("Accion invalida, intente de nuevo");
         }
     }
 }
