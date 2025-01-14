@@ -1,3 +1,4 @@
+package primero;
 import javax.swing.JOptionPane;  // Importar un paquete
 import programasPrimero.*; // Importar que importa un paquete
 
